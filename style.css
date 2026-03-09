@@ -459,11 +459,10 @@ div#child-left-5 {
 }
 
 div#child-right-5 {
-    padding-left: 50%;
     background-image: url(./img/image_website.png);
-    background-position: center;
+    background-position: 92.5%;
     background-repeat: no-repeat;
-    background-size: 32%;
+    background-size: 40%;
     height: 500px;
     width: 100%;
 }
