@@ -292,7 +292,7 @@ p#listen-p{
 /* About */
 
 div#mother-2-3 {
-    width: 100vw;
+    width: 100%;
     height: auto;
     display: flex;
     flex-wrap: wrap;
