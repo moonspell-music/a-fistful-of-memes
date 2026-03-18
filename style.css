@@ -18,6 +18,11 @@ img#logo {
     min-width: 64px; 
 } 
 
+h1#capnstone {
+    color: white;
+    padding-left: min(1em, 5%);
+}
+
 header {
     display: flex;              /* make header a flex container */
     align-items: center;        /* vertically center children */
