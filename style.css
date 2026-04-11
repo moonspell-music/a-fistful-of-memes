@@ -79,9 +79,9 @@ button.socialmedia {
     transition: color 0.3s, background-color 0.3s; /* smooth effect */
 }
 
-button.socialmedia#twitter {
+button.socialmedia#tiktok {
     width: 50px;
-    background-image: url("./img/x.png");
+    background-image: url("./img/tiktok-icon-free-png.webp");
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: center;
